@@ -1,5 +1,7 @@
 # Computer Vision, Goethe University Frankfurt (Fall 2020)
 
+![alt text](https://de.wikipedia.org/wiki/Johann_Wolfgang_Goethe-Universit%C3%A4t_Frankfurt_am_Main#/media/Datei:Logo-Goethe-University-Frankfurt-am-Main.svg)
+
 ## General Information
 
 **Instructor:**
