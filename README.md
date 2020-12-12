@@ -15,3 +15,9 @@ Besides the theoretical understanding of these algorithms, emphasis is placed on
 
 The assignments are based on the [Stanford CS231n course](http://cs231n.stanford.edu/).
 
+## Tools ## 
+* Python 3
+* Pytorch Framework
+* OpenCV Framework
+* Numpy Framework
+
