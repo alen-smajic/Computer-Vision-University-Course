@@ -27,13 +27,13 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   - 1.1 Prerequisites
 - 2 Setup
   - 2.1 Load OpenCV and NumPy
-2.2 Load and configure Matplotlib for use in Jupyter notebook
-2.3 Define function to display images
-2.4 Define function to measure errors
-3 Exercises
-3.1 Loading Images
-3.2 Color Spaces
-3.2.1 RGB to Grayscale
+  - 2.2 Load and configure Matplotlib for use in Jupyter notebook
+  - 2.3 Define function to display images
+  - 2.4 Define function to measure errors
+- 3 Exercises
+  - 3.1 Loading Images
+  - 3.2 Color Spaces
+    - 3.2.1 RGB to Grayscale
 3.2.2 Detecting Objects by Color
 3.3 Transformations
 3.3.1 Scaling
