@@ -70,6 +70,21 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   - 3.5 Preprocessing
 
 ### Problem Set 2 
+- 1 Fully Connected Nets
+  - Fully-Connected Neural Nets
+  - Affine layer: forward
+  - Affine layer: backward
+  - ReLU activation: forward
+  - ReLU activatioon: backward
+  - "Sandwich" layers
+  - Loss layers: Softmax and SVM
+  - Two-layer network
+  - Solver
+  - Multilayer network
+  - Initial loss and gradient check
+ - 2 Dropout
+ - 3 Convolutional Networks
+ - 4 PyTorch
 
 ### Problem Set 3 
 
