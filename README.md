@@ -23,9 +23,9 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
 
 ### Problem Set 1 (Part 1) 
 
-- 1. Introduction
+- 1 Introduction
   - 1.1. Prerequisites
-- 2. Setup
+- 2 Setup
   - 2.1. Load OpenCV and NumPy
 2.2 Load and configure Matplotlib for use in Jupyter notebook
 2.3 Define function to display images
