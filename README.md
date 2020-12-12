@@ -22,6 +22,34 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
 ## Assignments ##
 
 ### Problem Set 1 (Part 1) 
+1 Introduction
+1.1 Prerequisites
+2 Setup
+2.1 Load OpenCV and NumPy
+2.2 Load and configure Matplotlib for use in Jupyter notebook
+2.3 Define function to display images
+2.4 Define function to measure errors
+3 Exercises
+3.1 Loading Images
+3.2 Color Spaces
+3.2.1 RGB to Grayscale
+3.2.2 Detecting Objects by Color
+3.3 Transformations
+3.3.1 Scaling
+3.3.2 Translation
+3.3.3 Rotation
+3.4 Image Filtering
+3.4.1 Convolution/Cross Correlation
+3.4.2 Averaging Filter
+3.4.3 Gaussian Blur
+3.4.4 Median Filter
+3.5 Image Gradient
+3.5.1 One Direction
+3.5.2 Two Directions
+3.6 Histogram Equalization
+3.7 Image Thresholding
+3.7.1 Estimating Threshold using Image Histograms
+3.7.2 Advanced Techniques
 
 ### Problem Set 1 (Part 2) 
 
@@ -33,5 +61,5 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
 * Python 3
 * Pytorch Framework
 * OpenCV Framework
-* Numpy Framework
+* Numpy, Matplotlib Framework
 
