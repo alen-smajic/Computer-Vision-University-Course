@@ -56,6 +56,19 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
 
 ### Problem Set 1 (Part 2) 
 
+- 1 Introduction
+- 2 Setup
+  - 2.1 Import Numpy, OpenCV and other helpers
+  - 2.2 Load and configure Matplotlib for use in Jupyter notebook
+  - 2.3 Enable auto reload of external modules
+  - 2.4 Load the CIFAR-10 dataset
+- 3 Exercises
+  - 3.1 Preparation
+  - 3.2 Distances
+  - 3.3 Predicting Labels
+  - 3.4 Cross Validation
+  - 3.5 Preprocessing
+
 ### Problem Set 2 
 
 ### Problem Set 3 
