@@ -15,6 +15,16 @@ Besides the theoretical understanding of these algorithms, emphasis is placed on
 
 The assignments are based on the [Stanford CS231n course](http://cs231n.stanford.edu/).
 
+## Assignments ##
+
+# Problem Set 1 (Part 1) #
+
+# Problem Set 1 (Part 2) #
+
+# Problem Set 2 #
+
+# Problem Set 3 #
+
 ## Tools ## 
 * Python 3
 * Pytorch Framework
