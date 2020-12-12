@@ -1,8 +1,7 @@
 # Computer Vision, Goethe University Frankfurt (Fall 2020)
 
 ## General Information
-![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg = 250x500)
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg" width="40%">
+<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
 
 **Instructor:**
 * [Prof. Dr. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html), email: roig@cs.uni-frankfurt.de
