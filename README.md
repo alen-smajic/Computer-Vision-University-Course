@@ -34,23 +34,23 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   - 3.1 Loading Images
   - 3.2 Color Spaces
     - 3.2.1 RGB to Grayscale
-3.2.2 Detecting Objects by Color
-3.3 Transformations
-3.3.1 Scaling
-3.3.2 Translation
-3.3.3 Rotation
-3.4 Image Filtering
-3.4.1 Convolution/Cross Correlation
-3.4.2 Averaging Filter
-3.4.3 Gaussian Blur
-3.4.4 Median Filter
-3.5 Image Gradient
-3.5.1 One Direction
-3.5.2 Two Directions
-3.6 Histogram Equalization
-3.7 Image Thresholding
-3.7.1 Estimating Threshold using Image Histograms
-3.7.2 Advanced Techniques
+    - 3.2.2 Detecting Objects by Color
+  - 3.3 Transformations
+    - 3.3.1 Scaling
+    - 3.3.2 Translation
+    - 3.3.3 Rotation
+  - 3.4 Image Filtering
+    - 3.4.1 Convolution/Cross Correlation
+    - 3.4.2 Averaging Filter
+    - 3.4.3 Gaussian Blur
+    - 3.4.4 Median Filter
+  - 3.5 Image Gradient
+    - 3.5.1 One Direction
+    - 3.5.2 Two Directions
+  - 3.6 Histogram Equalization
+  - 3.7 Image Thresholding
+    - 3.7.1 Estimating Threshold using Image Histograms
+    - 3.7.2 Advanced Techniques
 
 ### Problem Set 1 (Part 2) 
 
