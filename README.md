@@ -5,6 +5,9 @@
 
 **Instructor:**
 * [Prof. Dr. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html), email: roig@cs.uni-frankfurt.de
+* Dr. Iuliia Pliushch
+* Kshitij Dwivedi
+* Matthias Fulde
 
 **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
 
