@@ -22,6 +22,13 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
 ## Assignments ##
 
 ### Problem Set 1 (Part 1) 
+
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 1 Introduction
 1.1 Prerequisites
 2 Setup
