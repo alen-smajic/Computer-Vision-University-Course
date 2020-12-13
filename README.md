@@ -77,7 +77,7 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   - Affine layer: forward
   - Affine layer: backward
   - ReLU activation: forward
-  - ReLU activatioon: backward
+  - ReLU activation: backward
   - "Sandwich" layers
   - Loss layers: Softmax and SVM
   - Two-layer network
