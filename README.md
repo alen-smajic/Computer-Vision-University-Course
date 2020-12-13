@@ -10,9 +10,10 @@
 * Matthias Fulde
 
 **Institutions:**
-**[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
 
-**[Computational Vision & Artificial Intelligence](http://www.cvai.cs.uni-frankfurt.de/index.html)**
+  **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
+
+  **[Computational Vision & Artificial Intelligence](http://www.cvai.cs.uni-frankfurt.de/index.html)**
 
 **Course Description:** 
 
