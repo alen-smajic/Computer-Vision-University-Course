@@ -133,7 +133,7 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
 
 ## Tools ## 
 * Python 3
-* Pytorch Framework
+* PyTorch Framework
 * OpenCV Framework
 * Numpy, Matplotlib Framework
 
