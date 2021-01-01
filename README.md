@@ -72,6 +72,7 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   - 3.5 Preprocessing
 
 ### Problem Set 2 
+
 - 1 Fully Connected Nets
   - Fully-Connected Neural Nets
   - Affine layer: forward
@@ -83,11 +84,51 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   - Two-layer network
   - Solver
   - Multilayer network
-  - Initial loss and gradient check
- - 2 Dropout
- - 3 Convolutional Networks
- - 4 PyTorch
-
+    - Initial loss and gradient check
+- 2 Dropout
+  - Dropout forward pass
+  - Dropout backward pass
+  - Fully-connected nets with Dropout
+  - Regularization experiment
+- 3 Convolutional Networks
+  - Convolution: Naive forward pass
+  - Aside: Image processing via convolutions
+  - Convolution: Naive backward pass
+  - Max-Pooling: Naive forward
+  - Max-Pooling: Naive backward
+  - Fast layers
+  - Convolutional "sandwich" layers
+  - Three-layer ConvNet
+   - Sanity check loss
+   - Gradient check
+   - Overfit small data
+   - Train the net
+   - Visualize Filters
+- 4 PyTorch
+  - Introduction into how to train neural networks with PyTorch
+  - What's this PyTorch business
+  - Part I. Preparation
+  - Part II. Barebones PyTorch
+    - PyTorch Tensors: Flatten Function
+    - BareBones PyTorch: Two-Layer Network
+    - BareBones PyTorch: Three-Layer ConvNet
+    - BareBones PyTorch: Initialization
+    - BareBones PyTorch: Check Accuracy
+    - BareBones PyTorch: Training Loop
+    - BareBones PyTorch: Train a Two-Layer Network
+    - BareBones PyTorch: Training a ConvNet
+  - Part III. PyTorch Module API
+    - Module API: Two-Layer Network
+    - Module API: Three-Layer ConvNet
+    - Module API: Check Accuracy
+    - Module API: Training Loop
+    - Module API: Train a Two-Layer Network
+    - Module API: Train a Three-Layer ConvNet
+  - Part IV. PyTorch Sequential API
+    - Sequential API: Two-Layer Network
+    - Sequential API: Three-Layer ConvNet
+  - Part V. CIFAR-10 open-ended challenge
+  
 ### Problem Set 3 
 
 ## Tools ## 
