@@ -131,6 +131,26 @@ The assignments are based on the [Stanford CS231n course](http://cs231n.stanford
   
 ### Problem Set 3 
 
+- Imports
+- Simple RNN cell
+  - Exercise 1: Please fill the forward function of simple RNN Cell
+- LSTM cell
+  - Exercise 2: Please complete the forward function of LSTM Cell
+- SimpleRNN
+- Loading MNIST dataset
+- Visualizing the dataset
+- Defining an ImageRNN
+- Training parameters
+- Setting up optimizer and cross entropy loss function
+- Training Loop
+- Implementing LSTM
+  - Exercise 3: Please complete the forward pass of LSTM
+- Defining ImageLSTM
+- Setting up optimizer and cross entropy loss function
+- Training Loop
+- Summary
+  - Exercise 4: Why LSTMs do not face the issue of vanishing gradients
+
 ## Tools ## 
 * Python 3
 * PyTorch Framework
